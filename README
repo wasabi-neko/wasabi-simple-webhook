@@ -1,0 +1,12 @@
+# Wasabi Simple Webhook
+
+very very simple web hoook for testing and demoing
+
+## how to run
+
+```
+npm install
+npm start
+```
+
+that's it, enjoy
